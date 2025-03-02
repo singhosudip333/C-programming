@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619592284 source:d:\codes\copy reverse array\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618986515 source:d:\codes\positive negative sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
